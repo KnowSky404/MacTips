@@ -1,3 +1,4 @@
 # DIY-Direct
-DOMAIN-SUFFIX,littlecontrol.mememe
-DOMAIN-SUFFIX,mirror.ghproxy.com
+DOMAIN-SUFFIX,mirror.ghproxy.com,GhProxy
+DOMAIN-SUFFIX,github.site,GhProxy
+DOMAIN-SUFFIX,github.store,GhProxy
